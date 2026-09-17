@@ -4,6 +4,10 @@ This project predicts telecom customer churn using a Decision Tree Classifier. I
 
 **To try predictions, follow sections 1–4. Retraining is optional when the saved pipeline is included.**
 
+# Git hub public repo link below 
+https://github.com/vishuTheDevloper/DataScience_churn_prediction
+
+This project predicts telecom customer churn using a Decision Tree Classifier. It includes an analysis notebook, reusable preprocessing, a saved model pipeline, and a FastAPI `POST /predict` endpoint.
 ## 1. Requirements and ZIP contents
 
 The project was developed on Windows with Python 3.13.15. Use Python 3.13 and the package versions supplied in `requirements.txt` to reproduce the environment. Internet access is needed to install dependencies; inference uses the local saved model and requires no API key, cloud account, or GPU.
