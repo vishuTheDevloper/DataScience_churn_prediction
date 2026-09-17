@@ -7,6 +7,14 @@ This project predicts telecom customer churn using a Decision Tree Classifier. I
 # Git hub public repo link below 
 https://github.com/vishuTheDevloper/DataScience_churn_prediction
 
+# Demo Video 
+## How to setup:-
+https://drive.google.com/file/d/1pRNWytWKb4wfo-hevfvTwTHlurPKEki4/view?usp=sharing
+
+## Demo:-
+https://drive.google.com/file/d/1JZEGHHpJ2gDQQoIaFk2fHwle9aKcNQDB/view?usp=sharing
+
+
 This project predicts telecom customer churn using a Decision Tree Classifier. It includes an analysis notebook, reusable preprocessing, a saved model pipeline, and a FastAPI `POST /predict` endpoint.
 ## 1. Requirements and ZIP contents
 
